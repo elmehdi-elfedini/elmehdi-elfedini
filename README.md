@@ -32,7 +32,7 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 
 ### 📊 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi-elfedini&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gruvbox&border_radius=4.5) -->
 
@@ -48,7 +48,7 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 
 ### 📫 Contact
 
-- LinkedIn: [your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/el-mehdi-el-fedini-97b471201/
 - Email: mehdifedini10@gmail.com
 - GitHub: https://github.com/elmehdi-elfedini
 
