@@ -37,12 +37,6 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gruvbox&border_radius=4.5) -->
 
 
----
-
-### 🗂️ Highlight Projects
-
-- [**Project Name**](https://github.com/yourusername/projectname): Brief description of what this project does and its importance.
-- [**Another Project**](https://github.com/yourusername/anotherproject): Brief description of another significant project.
 
 ---
 
