@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name]
+# 👨‍💻 EL MEHDI EL FEDINI 
 
 **`Data Scientist`**
 
@@ -26,7 +26,6 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
 <br />
 
 #
@@ -37,17 +36,6 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gruvbox&border_radius=4.5) -->
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Title of Your First Video](https://ytcards.demolab.com/?id=videoid1&title=Title+of+Your+First+Video&lang=en&timestamp=timestamp1&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=duration1 "Title of Your First Video")](https://www.youtube.com/watch?v=videoid1)
-[![Title of Your Second Video](https://ytcards.demolab.com/?id=videoid2&title=Title+of+Your+Second+Video&lang=en&timestamp=timestamp2&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=duration2 "Title of Your Second Video")](https://www.youtube.com/watch?v=videoid2)
-[![Title of Your Third Video](https://ytcards.demolab.com/?id=videoid3&title=Title+of+Your+Third+Video&lang=en&timestamp=timestamp3&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=duration3 "Title of Your Third Video")](https://www.youtube.com/watch?v=videoid3)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/yourchannel?sub_confirmation=1)
 
 ---
 
@@ -61,13 +49,8 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 ### 📫 Contact
 
 - LinkedIn: [your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [your GitHub](https://github.com/yourusername)
+- Email: mehdifedini10@gmail.com
+- GitHub: https://github.com/elmehdi-elfedini
 
 ---
 
-### 🧠 My Coding Journey
-
-I began my journey as a data scientist with a passion for exploring data and extracting meaningful insights. Over the years, I have worked on various projects, each adding to my expertise in machine learning, data analysis, and software development. My goal is to continue learning and sharing my knowledge with the community through open-source projects and tutorials.
-
-[website]: https://yourwebsite.com
