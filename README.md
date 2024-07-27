@@ -7,7 +7,7 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 ### 📱 Social Network
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/yourprofile">
+   <a href="https://www.linkedin.com/in/el-mehdi-el-fedini-97b471201/">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <!--    <a href="https://github.com/elmehdi-elfedini?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elmehdi-elfedini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
@@ -44,8 +44,6 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 
 ### 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/el-mehdi-el-fedini-97b471201/
 - Email: mehdifedini10@gmail.com
-- GitHub: https://github.com/elmehdi-elfedini
 
 ---
