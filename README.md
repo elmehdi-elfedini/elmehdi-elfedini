@@ -11,10 +11,8 @@ I am a dedicated data scientist with a passion for uncovering insights from data
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elmehdi-elfedini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/elmehdi-elfedini?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elmehdi-elfedini?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   <a href="https://www.instagram.com/yourprofile">
+   <a href="https://www.instagram.com/mehdielfedini/">
       <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="https://www.facebook.com/yourprofile">
-      <img alt="Facebook" title="Connect with me on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
