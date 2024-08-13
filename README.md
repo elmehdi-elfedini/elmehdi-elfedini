@@ -1,9 +1,10 @@
 # 👨‍💻 EL MEHDI EL FEDINI 
+<!--
 
 **`Data Scientist`**
 
 I am a dedicated data scientist with a passion for uncovering insights from data and developing robust machine learning models. My work involves end-to-end data solutions, from data collection and cleaning to building and deploying predictive models. I strive to solve real-world problems using data and contribute to the field with innovative approaches and solutions.
-
+-->
 ### 📱 Social Network
 
 <p align="left">
