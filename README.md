@@ -33,10 +33,10 @@ I am a dedicated data scientist with a passion for uncovering insights from data
 <br />
 
 #
-
+<!--
 ### 📊 Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi-elfedini&show_icons=true&theme=gruvbox)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi-elfedini&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gruvbox&border_radius=4.5) -->
 
